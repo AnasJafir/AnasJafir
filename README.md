@@ -1,8 +1,5 @@
 # Welcome to My GitHub Profile! 👋
 
-<p align="center">
-  <img src="https://files.oaiusercontent.com/file-OXRHFurK0553sdRQuvX9B1dp?se=2024-11-05T14%3A51%3A14Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dd9bdfaa4-6e26-4bce-b616-a590e272f07c.webp&sig=ffYOjjVmlyCdYU%2Byp7XIouOYgaGbAPZLtnT/7m8K9YM%3D" alt="Anas Jafir" width="200" />
-</p>
 
 <h2 align="center">Hello, I'm Anas Jafir 👨‍💻</h2>
 <p align="center">Graduating Student of ALX 12-Month Software Engineering Program | Backend Specialist | Dental Medicine Background</p>
