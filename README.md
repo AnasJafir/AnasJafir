@@ -115,7 +115,7 @@ Developed a UNIX-like shell that includes process control, file redirection, and
 
 Let’s connect and explore how we can create impactful solutions in tech and healthcare.
 
-- **LinkedIn**: [Dr.Anas Jafir](https://www.linkedin.com/in/jafir-anas-667a26278/)
+- **LinkedIn**: [Dr.Anas Jafir](https://www.linkedin.com/in/anasjafir/)
 - **Email**: dr.anas.jafir@gmail.com
 - **Twitter**: [@DrJafir1](https://x.com/DrJafir1)
 - **Instagram**: [@anas_jafir](https://www.instagram.com/anas_jafir/)
